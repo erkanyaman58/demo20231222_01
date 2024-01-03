@@ -50,6 +50,7 @@ public void testCarp() {
 	    int sayi1 = 2;
 	    int sayi2 = 9;
 	    int carpma = hesap.carp(sayi1, sayi2);
-	    assertEquals(18, carpma);
+	    assertEquals(17, carpma);
 }
+
 }
